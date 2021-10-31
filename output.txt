@@ -1,0 +1,22 @@
+int r=9; 
+int z=11; 
+int i=90; 
+while (i==1) {
+i=z+1; 
+for (int c=1; c<=5; c=c+1; ) {
+z=i*3; 
+printf("%d", i);
+}
+printf("%d", 122);
+}
+if (c==1) {
+printf("%d", r);
+printf("%d", z);
+}else {
+r=r%5; 
+for (c=1; c<=5; c=c+1; ) {
+c=c+9; 
+printf("%d", r);
+}
+printf("%d", r);
+}

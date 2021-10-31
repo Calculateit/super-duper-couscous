@@ -1,0 +1,27 @@
+r=9
+z=11
+i=90
+while [i==1; ]
+do
+	i = z+1
+	for (( c=1; c<=5; c=c+1; ))
+	do  
+		echo i
+	done
+	
+	echo 122
+done
+
+
+if [ c==1; ]
+then
+	echo r
+	echo z
+else
+	r=r%5
+	for (( c=1; c<=5; c=c+1; )
+	do  
+		echo r
+	done
+	echo r
+fi
